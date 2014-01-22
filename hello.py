@@ -6,4 +6,10 @@
 # description: this program does amazing things
 # and is a simple social network where people can 
 # post what they're doing and where. 140 char limit.
+#  Tabs in-app
+#     - Home
+#     - Profile
+#  Under three dot button
+#  - Search Button
+#  - Settings button
 ####################################################
